@@ -1,0 +1,44 @@
+.custom-mobile-logo-link img {
+    max-width: 200px !important;
+}
+
+/* --------FOOTER WIDTH SETTINGS Starts here-------  */
+
+@media only screen and (min-width: 700px) {
+  .footer-adv-widget-1{width: 18% !important;}
+  .footer-adv-widget-2{width:  37% !important;}
+  .footer-adv-widget-3{width:  15% !important;}
+  .footer-adv-widget-4{width:  30% !important;}
+}
+
+@media only screen and (max-width: 700px) {
+    .footer-adv-widget-1{width: 25% !important;}
+  .footer-adv-widget-2{width:  40% !important;}
+  .footer-adv-widget-3{width:  34% !important;}
+  .footer-adv-widget-4{width:  99% !important;}
+}
+
+@media only screen and (max-width: 550px) {
+    .footer-adv-widget-1{width: 35% !important;}
+  .footer-adv-widget-2{width:  65% !important;}
+  .footer-adv-widget-3{width:  35% !important;}
+  .footer-adv-widget-4{width:  65% !important;}
+}
+
+@media only screen and (max-width: 350px) {
+    .footer-adv-widget-1{width: 99% !important;}
+  .footer-adv-widget-2{width:  99% !important;}
+  .footer-adv-widget-3{width:  99% !important;}
+  .footer-adv-widget-4{width:  99% !important;}
+}
+
+/* --------FOOTER WIDTH SETTINGS Ends here-------  */
+
+/* --------Images SETTINGS Starts here-------  */
+.fl-node-5c0cb5789722e > .fl-col-content {
+    background-image: url(../2019/01/parts-and-repair-image-bg.jpg) !important;
+}
+
+
+
+/* --------Images SETTINGS Ends here-------  */
